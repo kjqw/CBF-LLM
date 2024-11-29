@@ -1,7 +1,7 @@
 {
-    "name": "CBF-LLM",
+    "name": "cbf-llm",
     "dockerComposeFile": "./docker-compose.yml",
-    "service": "CBF-LLM",
+    "service": "cbf-llm",
     "workspaceFolder": "/workspace",
     "customizations": {
         "vscode": {
